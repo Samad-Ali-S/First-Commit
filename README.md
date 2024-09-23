@@ -10,7 +10,7 @@ You have a chance to hear from people who are not just talking about, but buildi
    
 ---
  - [The Future in Tech Page
-- [Episode Guide] 
+- [Episode Guide]   
 - [YouTube Playlist] 
 - [Podcast Feed - Audio Only]   
 - [Episode Newsletter]   
