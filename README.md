@@ -14,4 +14,4 @@ You have a chance to hear from people who are not just talking about, but buildi
 - [YouTube Playlist] 
 - [Podcast Feed - Audio Only]   
 - [Episode Newsletter]   
-  
+   
