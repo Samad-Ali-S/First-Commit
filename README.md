@@ -1,6 +1,6 @@
   # The Future in Tech
 
-    
+     
 The [Future in Tech]  is a weekly series powered by   hosted by Senior Staff Instructor    
 You can ) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.  
      
