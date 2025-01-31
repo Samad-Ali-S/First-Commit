@@ -9,9 +9,6 @@ We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging F ake wo
 You have a chance to hear from people who are not just talking about, but  building the next generation tools like Open AI and leaders wh o've worked for and with Fo r tune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and  more.     
     
 ---
- - [The Future in Tech Page
-- [Episode Guide]   
-- [YouTube Playlist] 
-- [Podcast Feed - Audio Only]   
+ - [The Future in Tech Page 
 - [Episode Newsletter]    
    
